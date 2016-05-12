@@ -1,0 +1,15 @@
+---
+author: kierasmile
+comments: true
+date: 2015-01-18 15:14:52+00:00
+layout: post
+link: http://kierasmile.com/blog/?p=36
+slug: 'now'
+title: 回归当下
+wordpress_id: 36
+categories:
+- 思维碎片
+---
+
+2015/01/18 19:53 有些人在做一件事情的时候，同时还想着许多事，这样会很忙很累，还很健忘。如果把心带回当下，再多
+的事也就只有一件事，即当下要做当下事，只要做好一件事，就不会太忙太累了，就不会健忘了。 
